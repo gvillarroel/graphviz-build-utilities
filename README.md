@@ -10,5 +10,4 @@ Windows versions of:
 * Perl
 * pytest
 * Python 3
-* sed
 * Swig
